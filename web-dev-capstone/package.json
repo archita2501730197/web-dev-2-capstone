@@ -1,7 +1,8 @@
-{
+}{
   "name": "web-dev-capstone",
   "private": true,
   "version": "0.0.0",
+   "homepage": "https://archita2501730197.github.io/web-dev-2-capstone",
   "type": "module",
   "scripts": {
     "dev": "vite",
